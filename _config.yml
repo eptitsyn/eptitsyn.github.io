@@ -60,6 +60,7 @@ author:
   name   : "Evgenii Ptitsyn"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "CS Engineer doing random stuff..."
+  location : "Moscow, Russia"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
