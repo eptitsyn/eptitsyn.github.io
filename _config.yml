@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Evgenii Ptitsyn
 description: My Site
 google_analytics: UA-10880677-1
+plugins: jekyll-include-cache
