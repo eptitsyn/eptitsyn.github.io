@@ -1,3 +1,6 @@
+---
+author_profile: true
+---
 Hello
 
 ## Welcome to GitHub Pages
